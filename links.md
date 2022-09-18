@@ -20,3 +20,12 @@ permalink: LINKS/
 2. [Week 01 Slides](https://os.vlsm.org/Slides/os01.pdf)<br>
     This link helped me understand the materials taught in week 01.
 <br>
+
+## Week 2
+1. [OS Week 02 Assignment](https://osp4diss.vlsm.org/AOS.html#idx02)<br>
+    This link really describes each and every step for this week's assignment. Each step is explained with explanations and examples.
+<br>
+
+2. [Week 02 Slides](https://os.vlsm.org/Slides/os02.pdf)<br>
+    This link explains this week's materials and the ideas used for this week's assignment.
+<br>
