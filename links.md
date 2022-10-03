@@ -38,3 +38,12 @@ permalink: LINKS/
 2. [Week 03 Slides](https://os.vlsm.org/Slides/os03.pdf)<br>
     This link has the materials for this week. It is in a PDF format with compact information display.
 <br>
+
+## Week 4
+1. [OS Week 04 Assignment](https://osp4diss.vlsm.org/AOS.html#idx04)<br>
+    This link describes the entire process of this week's weekly assignment. It lists everything that should be done and everything that should be checked and rechecked thoroughly.
+<br>
+
+2. [Week 04 Slides](https://os.vlsm.org/Slides/os04.pdf)<br>
+    This link helped me understand this week's materials. It is filled with explanations, diagrams, examples, and many more. This link helped me visualize the things that are explained.
+<br>
