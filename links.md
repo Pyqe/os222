@@ -47,3 +47,12 @@ permalink: LINKS/
 2. [Week 04 Slides](https://os.vlsm.org/Slides/os04.pdf)<br>
     This link helped me understand this week's materials. It is filled with explanations, diagrams, examples, and many more. This link helped me visualize the things that are explained.
 <br>
+
+## Week 5
+1. [OS Week 05 Assignment](https://osp4diss.vlsm.org/AOS.html#idx05)<br>
+    This link helped me understand what to do in each step of the assignment. There are several things that I need to do this week for the weekly assignment. Everything is explained here.
+<br>
+
+2. [Week 05 Slides](https://os.vlsm.org/Slides/os05.pdf)<br>
+    This link helped me understand the materials for this week, which is all about virtual memory. If you want to read more about this topic, you can go to this link.
+<br>
