@@ -56,3 +56,12 @@ permalink: LINKS/
 2. [Week 05 Slides](https://os.vlsm.org/Slides/os05.pdf)<br>
     This link helped me understand the materials for this week, which is all about virtual memory. If you want to read more about this topic, you can go to this link.
 <br>
+
+## Week 6
+1. [OS Week 06 Assignment](https://osp4diss.vlsm.org/AOS.html#idx06)<br>
+    This link helped me a lot during week 06.
+<br>
+
+2. [Week 06 Slides](https://os.vlsm.org/Slides/os06.pdf)<br>
+    During week 06, this link helped me a lot.
+<br>
