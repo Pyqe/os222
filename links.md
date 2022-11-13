@@ -65,3 +65,12 @@ permalink: LINKS/
 2. [Week 06 Slides](https://os.vlsm.org/Slides/os06.pdf)<br>
     During week 06, this link helped me a lot.
 <br>
+
+## Week 7
+1. [OS Week 07 Assignment](https://osp4diss.vlsm.org/AOS.html#idx07)<br>
+    This link provides me the steps needed to successfully finish this week's weekly assignment. I managed to do the assignment without any significant issues thanks to this link.
+<br>
+
+2. [Week 07 Slides](https://os.vlsm.org/Slides/os07.pdf)<br>
+    This link provides me the materials for this week's materials, which is about deadlocked and cycles.
+<br>
