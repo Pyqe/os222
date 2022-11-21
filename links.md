@@ -74,3 +74,12 @@ permalink: LINKS/
 2. [Week 07 Slides](https://os.vlsm.org/Slides/os07.pdf)<br>
     This link provides me the materials for this week's materials, which is about deadlocked and cycles.
 <br>
+
+## Week 8
+1. [OS Week 08 Assignment](https://osp4diss.vlsm.org/AOS.html#idx08)<br>
+    This link helped me with this week's assignments. In here, there are more links that can be used to help. Some details are left out, but I was able to follow it reasonably well.
+<br>
+
+2. [Week 08 Slides](https://os.vlsm.org/Slides/os08.pdf)<br>
+    This link helped me with this week's materials.
+<br>
