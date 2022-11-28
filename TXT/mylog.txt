@@ -61,3 +61,8 @@ ZCZC W08 10 L03 GitHub related
 ZCZC W08 10 L05 Quiz
 ZCZC W08 1080 L09 Weekly Assignments
 ZCZC W08 100 L99 Offline class
+ZCZC W09 30 L00 General, etc.
+ZCZC W09 100 L01 SCELE/Discord related
+ZCZC W09 10 L03 GitHub related
+ZCZC W09 10 L05 Quiz
+ZCZC W09 500 L09 Weekly Assignments
