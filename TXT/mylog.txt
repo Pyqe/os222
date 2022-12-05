@@ -66,3 +66,8 @@ ZCZC W09 100 L01 SCELE/Discord related
 ZCZC W09 10 L03 GitHub related
 ZCZC W09 10 L05 Quiz
 ZCZC W09 500 L09 Weekly Assignments
+ZCZC W10 30 L00 General, etc.
+ZCZC W10 60 L01 SCELE/Discord related
+ZCZC W10 10 L03 GitHub related
+ZCZC W10 10 L05 Quiz
+ZCZC W10 3000 L09 Weekly Assignments

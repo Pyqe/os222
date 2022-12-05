@@ -92,3 +92,12 @@ permalink: LINKS/
 2. [Week 09 Slides](https://os.vlsm.org/Slides/os09.pdf)<br>
     This link helped me with this week's materials.
 <br>
+
+## Week 10
+1. [OS Week 10 Assignment](https://osp4diss.vlsm.org/AOS.html#idx10)<br>
+    This link is the assignments.
+<br>
+
+2. [Week 10 Slides](https://os.vlsm.org/Slides/os10.pdf)<br>
+    This link is the materials.
+<br>
